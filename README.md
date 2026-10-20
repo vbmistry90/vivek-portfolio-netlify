@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vivek Mistry — Portfolio
 s
 Personal portfolio for Vivek Mistry, senior MERN stack developer. Built with React and Vite, ready for Netlify.
@@ -26,3 +27,6 @@ npm run dev
 You can also deploy without Git: run `npm run build` and drag the `dist` folder onto Netlify Drop.
 "# project" 
 "# project" 
+=======
+# vivek-portfolio-netlify
+>>>>>>> 7ffacd3ca1d3e0303c1148d5ebfdf2af383ed312
